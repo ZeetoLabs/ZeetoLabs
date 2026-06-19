@@ -1,4 +1,4 @@
-# Hello, Mike here from Zeeto Labs.
+# Hello, Mike here from Zeeto Labs here.
 
 Creative Technologist building interactive experiences that bridge the digital and physical worlds. I focus on generative art, creative coding, and immersive web interfaces.
 
