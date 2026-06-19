@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, Mike here from Zeeto Labs.
 
-<!--
-**ZeetoLabs/ZeetoLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative Technologist building interactive experiences that bridge the digital and physical worlds. I focus on generative art, creative coding, and immersive web interfaces.
 
-Here are some ideas to get you started:
+### My Toolkit
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+* 🚀 Building interactive web experiences using React and Three.js.
+* 🎨 Exploring generative systems with p5.js.
+* 🛠️ Turning ideas into reality at the intersection of code and design.
+
+---
+*Looking for my latest work? Check my pinned repositories below.*
